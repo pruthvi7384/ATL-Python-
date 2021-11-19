@@ -1,0 +1,4 @@
+,day,temperature,windspeed,event
+0,2017-01-01,32,6,Rain
+1,2017-01-02,35,7,Sunny
+2,2017-01-03,28,2,Snow
